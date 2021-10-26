@@ -1,0 +1,89 @@
+hr{
+    margin: 30px;
+    color: #a59f9f; 
+}
+.cart-product-name{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.cart-li{
+    float: left;
+    margin: 0px -108px;
+    list-style-type: none;
+    font-weight: 600;
+    color: #424141;
+    font-size: 19px;
+    margin-left: 338px;
+    margin-top: -26px;
+}
+.clear-button{
+    color: #fa7c6b;
+    background-color: #fff;
+    border: 1px solid #fa7c6b;
+    border-radius: 20px;
+    padding: 6px;
+    font-weight: 700;
+    margin-top: -10px;
+}
+.back-button{
+    padding: 15px;
+    border: 1px solid #6495ed;
+    border-radius: 30px;
+}
+.image-cart img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-left: 30px;
+    margin-top: -10px;
+    padding-bottom: 15px;
+    cursor: pointer;
+}
+.cart-name{
+    width: 300px;
+    padding-left: 15px;
+    font-weight: 500;
+    position: relative;
+    top: 0px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+    cursor: pointer;
+}
+.quantity-cart{
+    float: left;
+    margin-left: -7px;
+    padding: 15px;
+    height: 61px;
+    border: 1px solid #6495ed;
+    border-radius: 29px;
+}
+
+.actual-price-cart{
+    float: left;
+    margin-left: 194px;
+    text-decoration: line-through;
+}
+.price{
+    float: left;
+}
+.subtotal-cart{
+    float: left;
+    margin-left: 190px;
+}
+.flex{
+    display: flex;
+}
+.removeicon{
+    padding-left: 283px;
+}
+.side-menu{
+    float: right;
+}
+.side-list{
+    display: flex;
+   
+    list-style-type: none;
+    margin-top: -60px;
+   cursor: pointer;
+    font-weight: 700;
+} 
